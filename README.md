@@ -1,4 +1,4 @@
-# DESENVOLVIMENTO WEB ----- ATIVIDADE I
+# DESENVOLVIMENTO WEB --- ATIVIDADE I
 
 # 💚 Projeto Organização de Voluntários
 
